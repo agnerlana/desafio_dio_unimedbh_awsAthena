@@ -4,7 +4,7 @@ Replicação do projeto elaborado por Cassiano Peres para o desafio sobre a util
 
 Link do repositório: https://github.com/cassianobrexbit/dio-live-athena.git
 
-
+Obs.: No projeto original foram utilizados dados demográficos. Tendo em vista o contexto do bootcamp, neste projeto optou-se por utilizar uma base de beneficiários por operadora e UF.
 
 ##### Serviços utilizados
 
